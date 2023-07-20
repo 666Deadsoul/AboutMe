@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @666Deadsoul
 - 👀 I’m interested in coding.
-- 🌱 I’m currently learning C programming.
+- 🌱 I’m currently in learning phase.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
