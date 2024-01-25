@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @666Deadsoul
-- 👀 I’m interested in coding.
-- 🌱 I’m currently in learning phase.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sarina Maharjan
+- 👀 I’m interested in coding and develop my skills.
+- 🌱 I’m currently in learning phase. I love to explore things and learn new concepts.
+- 💞️ I’m looking forward to connect with you.
+- 📫 my email: sarinamaharjan234@gmail.com
+- Thankyou !
 
-<!---
-666Deadsoul/666Deadsoul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
